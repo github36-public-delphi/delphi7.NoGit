@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.217,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Облако mail.ru\Личные папки\Евгений\Синхронизируемые файлы и папки\Разработка программ\Создание бэкапов\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.428,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Облако mail.ru\Личные папки\Евгений\Синхронизируемые файлы и папки\Разработка программ\Создание бэкапов\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.244,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.022,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.428,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Облако mail.ru\Личные папки\Евгений\Синхронизируемые файлы и папки\Разработка программ\Создание бэкапов\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
